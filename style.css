@@ -256,15 +256,15 @@ top: 188px;
 .hero1{
     left: 20.23px;
 top: 369.28px;
-width: 100%;
+
 transform: rotate(4.9deg);
 }
 .hero2{
     left: 78.04%;
 right: 7.58%;
-top: 60.94%;
+top: 66.94%;
 bottom: 80.32%;
-width: 100%;
+
 transform: rotate(-3.74deg);
 }
 
